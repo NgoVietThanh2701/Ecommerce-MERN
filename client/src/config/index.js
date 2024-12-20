@@ -58,35 +58,35 @@ export const loginFormControls = [
 ];
 
 export const categoriesWithIcon = [
-   { id: "anhdao", label: "Hoa anh đào 1", icon: Flower },
-   { id: "thiendieu", label: "Hoa thiên điểu", icon: CloudLightning },
-   { id: "hoathuocduoc", label: "Hoa thược dược", icon: BabyIcon },
-   { id: "camtucau", label: "Hoa cẩm tú cầu", icon: WatchIcon },
-   { id: "hoaoaihuong", label: "Hoa oải hương", icon: UmbrellaIcon },
+   { id: "sirius", label: "Sirius", icon: Flower },
+   { id: "sh", label: "SH", icon: CloudLightning },
+   { id: "vision", label: "Vision", icon: BabyIcon },
+   { id: "wave", label: "Wave", icon: WatchIcon },
+   { id: "vario", label: "vario", icon: UmbrellaIcon },
 ];
 
 export const brandsWithIcon = [
-   { id: "andy", label: "Andy", icon: Shirt },
-   { id: "luxflower", label: " Lux Flowers 1", icon: WashingMachine },
-   { id: "gigiflower", label: "Gigi Flower", icon: ShoppingBasket },
-   { id: "sayhoa", label: "Sayhoa", icon: Airplay },
-   { id: "flowerboutique", label: "Flower Boutique.", icon: Images }
+   { id: "honda", label: "Honda", icon: Shirt },
+   { id: "yamaha", label: "Yamaha", icon: WashingMachine },
+   { id: "kawasaki", label: "Kawasaki", icon: ShoppingBasket },
+   { id: "suzuki", label: "Suzuki", icon: Airplay },
+   { id: "vinfast", label: "Vinfast", icon: Images }
 ];
 
 const category = [
-   { id: "anhdao", label: "Hoa anh đào 1" },
-   { id: "thiendieu", label: "Hoa thiên điểu" },
-   { id: "hoathuocduoc", label: "Hoa thược dược" },
-   { id: "camtucau", label: "Hoa cẩm tú cầu" },
-   { id: "hoaoaihuong", label: "Hoa oải hương" },
+   { id: "sirius", label: "Sirius" },
+   { id: "sh", label: "SH" },
+   { id: "vision", label: "Vision" },
+   { id: "wave", label: "Wave" },
+   { id: "vario", label: "vario" },
 ]
 
 const brand = [
-   { id: "andy", label: "Andy" },
-   { id: "luxflower", label: " Lux Flowers 1" },
-   { id: "gigiflower", label: "Gigi Flower" },
-   { id: "sayhoa", label: "Sayhoa" },
-   { id: "flowerboutique", label: "Flower Boutique." }
+   { id: "honda", label: "Honda" },
+   { id: "yamaha", label: "Yamaha" },
+   { id: "kawasaki", label: "Kawasaki" },
+   { id: "suzuki", label: "Suzuki" },
+   { id: "vinfast", label: "Vinfast" }
 ]
 
 export const addProductFormElements = [
